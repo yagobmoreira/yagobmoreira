@@ -8,14 +8,14 @@
 <br />
 <br />
 
-Olá, me chamo **Yago Moreira**, sou de Teresina, Brasil e atualmente estou **Estudando Desenvolvimento Web na Trybe** 🚀. 
+Olá, me chamo **Yago Moreira**, sou de Teresina - Piauí, Brasil e sou Desenvolvedor Web. Possuo experiência com Javascript, TypeScript, NodeJs, React, SQL, NoSQL, Docker. Atualmente tenho estudado Java, em sua versão 17, desde os fundamentos da linguaguem até o desenvolvimento de aplicações web com Spring. 
 
 **Meus interesses pessoais:**
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 - 👨🏽‍💻 Estou estudando Java e Orientação à Objetos;
-- 🌱 Estou aprendendo como desenvolver API REST e testes unitários; 
+- 🌱 Estou aprendendo como desenvolver API REST e testes unitários;
 - 🤔 Meus hobbies são futebol e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
