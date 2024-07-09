@@ -3,28 +3,48 @@
 </a>
 
 <br />
-<br />
 
-Olá, me chamo **Yago Moreira**, sou de Teresina - Piauí, Brasil e sou Desenvolvedor Web. Possuo experiência com Javascript, TypeScript, NodeJs, React, SQL, NoSQL, Docker. Atualmente tenho estudado Java, em sua versão 17, desde os fundamentos da linguaguem até o desenvolvimento de aplicações web com Spring. 
+## Sobre mim 🚀
 
-**Meus interesses pessoais:**
+Olá, me chamo **Yago Borges Moreira**, sou de Teresina - Piauí, Brasil e sou Desenvolvedor Web. Possuo experiência com Javascript, TypeScript, NodeJs, React, SQL, NoSQL, Docker. Atualmente tenho estudado Java (versão 17), desde os fundamentos da linguaguem até o desenvolvimento de aplicações web com Spring, além de fundamentos de Cloud com AWS.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+💡 Gosto de explorar novas tecnologias e usá-las para construir coisas legais.\
+🎓 Sou bacharel em Engenharia Elétrica pela Universidade Federal do Piauí.\
+📫 Por favor, envie um email para **yagomoreira@gmail.com** para me encontrar.
 
-- 👨🏽‍💻 Estou estudando Java e Orientação à Objetos;
-- 🌱 Estou aprendendo como desenvolver API REST e testes unitários;
-- 🤔 Meus hobbies são futebol e jogos online;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **yagomoreira@gmail.com** para me encontrar.
+## Tecnologias e ferramentas
 
-<br />
-<br />
+### Front-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=purple)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=BootStrap)
+![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
+![Vite](https://img.shields.io/badge/-Vite-000?logo=vite)
+![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)
+![Vitest](https://img.shields.io/badge/-Vitest-000?logo=vitest)
 
-**Linguagens e ferramentas:**  
+### Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Fastify](https://img.shields.io/badge/-Fastify-000?logo=fastify)
+![Prisma](https://img.shields.io/badge/-Prisma-000?logo=prisma)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?logo=sequelize)
+![Mocha](https://img.shields.io/badge/-Mocha-000?logo=mocha)
+![Java](https://img.shields.io/badge/-Java-000)
+![Spring](https://img.shields.io/badge/-Spring-000?logo=spring)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white) ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-000?logo=amazonwebservices&logoColor=orange)
 
+### Databases
+![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 **GitHub Stats** 
 
@@ -33,4 +53,4 @@ Olá, me chamo **Yago Moreira**, sou de Teresina - Piauí, Brasil e sou Desenvol
 <br />
 
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ Baseado em [ocodista](https://github.com/ocodista)
