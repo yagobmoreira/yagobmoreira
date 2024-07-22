@@ -10,6 +10,7 @@ Olá, me chamo **Yago Borges Moreira**, sou de Teresina - Piauí, Brasil e sou D
 
 💡 Gosto de explorar novas tecnologias e usá-las para construir coisas legais.\
 🎓 Sou bacharel em Engenharia Elétrica pela Universidade Federal do Piauí.\
+💻 Possuo curso de Desenvolvimento Web Full Stack pela Trybe Escola de Tecnologia.\
 📫 Por favor, envie um email para **yagomoreira@gmail.com** para me encontrar.
 
 ## Tecnologias e ferramentas
