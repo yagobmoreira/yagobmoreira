@@ -25,6 +25,7 @@ Olá, me chamo **Yago Borges Moreira**, sou de Teresina - Piauí, Brasil e sou D
 ![Vite](https://img.shields.io/badge/-Vite-000?logo=vite)
 ![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)
 ![Vitest](https://img.shields.io/badge/-Vitest-000?logo=vitest)
+![Angular](https://img.shields.io/badge/Angular-000?logo=angular)
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
